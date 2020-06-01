@@ -1,1 +1,1 @@
-Codecademy JavaScript project - and my first ever project in any programming beyond html/css.
+Codecademy JavaScript project - and my first ever project in any programming beyond html/css. See script.js for my input.
